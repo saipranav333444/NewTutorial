@@ -1,1 +1,3 @@
 Hi this is new tutorial
+Step 2
+Changes are applied in git hub
